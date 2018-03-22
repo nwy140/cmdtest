@@ -1,0 +1,22 @@
+If you are reading this , you should immediately ignore what you are doing , and follow these lines of code
+
+OnBeginPlay(){
+    nwy.press(CTRL+SHIFT+N)
+    nwy.press(CTRL+ALT+D)
+    move.sourcetree.winright()
+    nwy.press(CTRL+WIN+RIGHT)
+}
+OnTick(){
+    if(onWin1){
+     nwy.remind(BeginPlay) // reminding nwy BeginPlay method call
+    }
+    if(onWin2){
+    start.chrome.darkmode.udemy()
+    start.currentwork
+    }   
+
+OnInterrupted(){
+   nwy.runcmd.shutdown-s
+   nwy.usephoneresearchoutside()
+}
+}
