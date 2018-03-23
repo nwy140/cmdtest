@@ -16,7 +16,9 @@ OnTick(){
     }   
 
 OnInterrupted(){
-   nwy.runcmd.shutdown-s
+   nwy.press(CTRL+SHIFT+N)
    nwy.usephoneresearchoutside()
-}
+   if(nwy.current.enternment||wantf){
+   start.shutdown(-l)
+   } 
 }
